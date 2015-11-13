@@ -1,0 +1,17 @@
+{
+    "name": "labzone/auto-mapper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chellem",
+            "email": "jchellem@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AutoMapper\\": "src/"
+        }
+    }
+}
